@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaun.
-- 👀 I’m interested in website design and creating Python programs.
+- 👀 I’m interested in web development, web design and creating software.
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python.
 
 

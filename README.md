@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaun.
-- 👀 I’m interested in web development, web design and creating software.
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
+- 👀 I’m interested in data science and automation.
+- 🌱 I’m currently learning Python and SQL.
 
 
 <!---

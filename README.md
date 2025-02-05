@@ -1,6 +1,6 @@
 # Hi, I'm Shaun! 👋
 
-I'm a data analyst with a passion for problem-solving and storytelling through data. With a strong foundation in Power BI, Power Automate, and PowerShell, I've created innovative solutions for data-driven decision-making and process automation. I have hands-on experience in developing business intelligence reports and handling sensitive data with precision.
+I'm a data analyst with an interest for problem-solving and storytelling through data. With a strong foundation in Power BI, Power Automate, and PowerShell, I've created solutions for data-driven decision-making and process automation. I have hands-on experience in developing business intelligence reports and handling sensitive data with precision.
 
 ## Recent Projects:
 
